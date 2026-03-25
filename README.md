@@ -83,12 +83,20 @@ These metrics help measure prediction accuracy and model reliability.
 ---
 
 ##  Project Structure
+
+```
+SmartAQI/
+│
 ├── DATA_CONSOLIDATION.ipynb
 ├── EDA.ipynb
 ├── base_model.ipynb
 ├── ML_MODEL.ipynb
+│
 ├── train_ml.csv
 ├── val_ml.csv
 ├── test_ml.csv
+│
 ├── city_map.json
 └── README.md
+```
+
