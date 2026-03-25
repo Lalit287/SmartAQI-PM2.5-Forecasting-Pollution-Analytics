@@ -1,4 +1,5 @@
-#  SmartAQI – End-to-End Air Quality Prediction System
+#  SmartAQI-PM2.5-Forecasting-Pollution-Analytics
+
 
 ##  Overview
 SmartAQI is a complete Machine Learning project designed to analyze urban air pollution data and predict PM2.5 concentration levels.  
